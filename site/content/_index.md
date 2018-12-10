@@ -4,7 +4,7 @@ subtitle: Share the harvest!
 image: /img/image3.jpeg
 blurb:
   heading: Something about us harvesting trees in springtime
-  text: Such good fruit
+  text: ''
 intro:
   heading: What we offer
   text: >-
