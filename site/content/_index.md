@@ -3,10 +3,8 @@ title: Portland Fruit Tree Project
 subtitle: Share the harvest!
 image: /img/image3.jpeg
 blurb:
-  heading: Something about us
-  text: >-
-    Here is some info about what we do, or maybe other useful info. Let's see
-    what else there is to know about the org.
+  heading: Something about us harvesting trees in springtime
+  text: Such good fruit
 intro:
   heading: What we offer
   text: >-
