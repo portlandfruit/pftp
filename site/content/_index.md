@@ -1,14 +1,10 @@
 ---
 title: Portland Fruit Tree Project
 subtitle: Share the harvest!
-image: /img/home-jumbotron.jpg
+image: /img/image3.jpeg
 blurb:
-  heading: Why Kaldi?
-  text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Something about us
+  text: 'Here is some info about what we do, or maybe other useful info.'
 intro:
   heading: What we offer
   text: >-
